@@ -1,5 +1,6 @@
 # About Me:
-# Hi, I'm Ahad 👋<br><br>🎓 I'm a **Computer Science student** with a strong interest in **Artificial Intelligence and Machine Learning**.<br>🤖 Currently learning and exploring concepts in **AI, Machine Learning, Python, and Data Science**.<br><br>💻 I enjoy building projects and improving my programming skills.<br><br>🚀 My goal is to become an **AI Expert** and build intelligent systems that solve real-world problems.<br><br>📌 Currently focusing on:<br><br>-Machine Learning<br>-AI Projects<br>-Problem Solving<br><br>⭐ Feel free to explore my repositories and connect with me!
+# Hi, I'm Ahad
+🎓 I'm a **Computer Science student** with a strong interest in **Artificial Intelligence and Machine Learning**.<br>🤖 Currently learning and exploring concepts in **AI, Machine Learning, Python, and Data Science**.<br><br>💻 I enjoy building projects and improving my programming skills.<br><br>🚀 My goal is to become an **AI Expert** and build intelligent systems that solve real-world problems.<br><br>📌 Currently focusing on:<br><br>-Machine Learning<br>-AI Projects<br>-Problem Solving<br><br>⭐ Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
